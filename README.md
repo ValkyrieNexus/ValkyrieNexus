@@ -24,7 +24,7 @@ I'm exploring where development, infrastructure, and business strategy intersect
 
 **Programming**: Python, Go (via Boot.dev curriculum)  
 **Infrastructure**: Proxmox virtualization, Kubernetes Pi cluster, UniFi networking  
-**Security**: Planning HackTheBox curriculum for hands-on penetration testing  
+**Security**: Planning HackTheBox curriculum for hands-on penetration testing
 **Certifications**: Net+
 **Certifications in Progress**: Security+, Linux+, CySA+  
 **Future Learning Path**: Server+, Cloud+, CCNA, AWS/Azure certifications  

@@ -1,4 +1,4 @@
-# Dein | Senior Platform Engineer
+# Dein | Platform Engineer
 
 Infrastructure, security, and full-stack development. I build platforms that are secure by default and operational by design.
 
@@ -27,14 +27,13 @@ I design and operate secure infrastructure platforms -- from bare-metal Proxmox 
 
 ## Open Source
 
-- [proxmox-ssh-hardening](https://github.com/ValkyrieNexus/proxmox-ssh-hardening) -- SSH hardening script for Proxmox LXC/VMs
-- [ssh-management-suite](https://github.com/ValkyrieNexus/ssh-management-suite) -- Full-lifecycle SSH key and config management CLI
+- [proxmox-ssh-hardening](https://github.com/ValkyrieNexus/proxmox-ssh-hardening) -- SSH hardening and key management suite for Proxmox LXC/VMs
 - [fastfetch-universal-installer](https://github.com/ValkyrieNexus/fastfetch-universal-installer) -- Universal Fastfetch installer for all Linux distributions
 - [hl.boilerplates](https://github.com/ValkyrieNexus/hl.boilerplates) -- Homelab boilerplate configurations
 
 ## Background
 
-24+ years military service. BS in Business Administration, MS in Project Management. CompTIA Net+ certified. The military taught me operational discipline, threat modeling, and how to build systems that work when it matters. I bring that same rigor to infrastructure engineering.
+24+ years military service. BS in Business Administration, MS in Project Management. Multi-million dollar construction project delivery before pivoting to technology. CompTIA Net+ certified, AWS Cloud Operations in progress. The military taught me operational discipline, threat modeling, and how to build systems that work when it matters. I bring that same rigor to infrastructure engineering.
 
 ## Contact
 

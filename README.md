@@ -1,37 +1,41 @@
-# Hi, I'm Dein (@ValkyrieNexus)
+# Dein | Senior Platform Engineer
 
-## About Me
+Infrastructure, security, and full-stack development. I build platforms that are secure by default and operational by design.
 
-I'm a career military professional (24+ years) transitioning into the tech sector, combining decades of computer experience with formal development training. Currently working through the Boot.dev curriculum to build solid programming fundamentals while exploring the intersection of development, infrastructure, and automation.
+## What I Do
 
-With a BS in Business Administration and MS in Project Management, I bring a unique perspective to technology projects - understanding both the technical implementation and business strategy behind solutions.
+I design and operate secure infrastructure platforms -- from bare-metal Proxmox clusters to Kubernetes deployments, with identity-aware access, defense-in-depth networking, and observability built in from the start. I also build full-stack web applications when the problem calls for it.
 
-Currently serving in the military and preparing for my transition to civilian life in the next couple of years. I'm excited about the next chapter and building a career in technology.
+**Portfolio**: [valkyrienexus.com](https://valkyrienexus.com) | **Dev Notes**: [valkyrienexus.dev](https://valkyrienexus.dev)
 
-## What I'm Working On
+## Current Projects
 
-- **Development Fundamentals**: Progressing through Boot.dev's comprehensive curriculum (Python, Go)
-- **Infrastructure Learning**: Building a Proxmox virtualization environment and Kubernetes Pi cluster
-- **Networking & Security**: Preparing for CompTIA Network+, Security+, and CySA+ certifications
-- **Homelab Projects**: Running a full UniFi infrastructure for hands-on experience
-- **Automation & Scripting**: Exploring how AI-assisted development can streamline operations
+- **Secure Access Platform** -- Cloudflare Tunnel + Traefik + Authentik on Proxmox. Zero inbound ports, per-service access policies, SSO across all self-hosted services.
+- **K3s Operations** -- Lightweight Kubernetes cluster for container orchestration with secure service exposure and controlled access.
+- **Security & Observability Baseline** -- Wazuh-based telemetry, log aggregation, and security investigation across the homelab.
+- **C2 Faction Headquarters** -- Full-stack faction management platform (Next.js, PostgreSQL, Redis, BullMQ) with real-time war tracking and automated analytics.
+- **Professional Website** -- Two-domain SolidStart + Three.js site deployed on Cloudflare Workers. Architecture docs and runbooks at valkyrienexus.dev.
 
-## Current Focus
+## Tech Stack
 
-I'm exploring where development, infrastructure, and business strategy intersect. While AI is transforming how we build software, I'm focused on understanding the fundamentals and finding where human creativity and strategic thinking add the most value. My interests span cloud computing, fintech, and defense contracting - areas where my military experience provides valuable context.
+**Infrastructure**: Proxmox VE, Docker, K3s, Cloudflare Tunnels, Traefik, Nginx, Terraform
+**Identity & Security**: Authentik, Wazuh, WireGuard, SSH hardening
+**Backend**: Node.js, TypeScript, Next.js, SolidStart, PostgreSQL, Redis, BullMQ
+**Frontend**: SolidJS, React, Three.js, Tailwind CSS
+**DevOps**: Cloudflare Workers, Docker multi-stage builds, Turborepo, pnpm, GitHub Actions
+**Languages**: TypeScript, Python, Bash, Go
 
-## Technical Skills & Learning
+## Open Source
 
-**Programming**: Python, Go (via Boot.dev curriculum)  
-**Infrastructure**: Proxmox virtualization, Kubernetes Pi cluster, UniFi networking  
-**Security**: Planning HackTheBox curriculum for hands-on penetration testing  
-**Certifications**: Net+  
-**Certifications in Progress**: Security+, Linux+, CySA+  
-**Future Learning Path**: Server+, Cloud+, CCNA, AWS/Azure certifications  
-**Background**: 40+ years with computers, 24+ years military experience
+- [proxmox-ssh-hardening](https://github.com/ValkyrieNexus/proxmox-ssh-hardening) -- SSH hardening script for Proxmox LXC/VMs
+- [ssh-management-suite](https://github.com/ValkyrieNexus/ssh-management-suite) -- Full-lifecycle SSH key and config management CLI
+- [fastfetch-universal-installer](https://github.com/ValkyrieNexus/fastfetch-universal-installer) -- Universal Fastfetch installer for all Linux distributions
+- [hl.boilerplates](https://github.com/ValkyrieNexus/hl.boilerplates) -- Homelab boilerplate configurations
 
-## Let's Connect
+## Background
 
-I'm always open to connecting with fellow developers and learning from the community. Feel free to reach out via email or social media!
+24+ years military service. BS in Business Administration, MS in Project Management. CompTIA Net+ certified. The military taught me operational discipline, threat modeling, and how to build systems that work when it matters. I bring that same rigor to infrastructure engineering.
 
-**Pronouns**: he/him
+## Contact
+
+**Email**: admin@valkyrienexus.com

@@ -79,14 +79,13 @@ This isn't a tech list — it's a trust chain. Traffic enters through Cloudflare
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValkyrieNexus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F0B940&icon_color=C9972E&text_color=CCCCCC" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-tau-bice-66.vercel.app/api?username=ValkyrieNexus&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F0B940&icon_color=C9972E&text_color=CCCCCC" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValkyrieNexus&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F0B940&text_color=CCCCCC" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-bice-66.vercel.app/api/top-langs/?username=ValkyrieNexus&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0F&title_color=F0B940&text_color=CCCCCC" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValkyrieNexus&theme=dark&hide_border=true&background=0A0A0F&ring=F0B940&fire=F0B940&currStreakLabel=F0B940&sideLabels=CCCCCC&dates=666666" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ValkyrieNexus&theme=dark&hide_border=true&background=0A0A0F&ring=F0B940&fire=F0B940&currStreakLabel=F0B940&sideLabels=CCCCCC&dates=666666" alt="GitHub Streak" />
 </p>
-

@@ -1,40 +1,61 @@
 # Hey, I'm Dein
 
-**Platform Engineer** | U.S. Veteran | Security-Minded Infrastructure
+**Full-Stack Engineer & Founder** &nbsp;|&nbsp; U.S. Veteran &nbsp;|&nbsp; Platforms · Web Applications · Secure Infrastructure
 
-> Engineering the Perimeter. Securing the Core.
+> I design, build, and ship complete products — then run the hardened infrastructure they live on.
 
 ---
 
-I build and secure the platforms that applications depend on. My focus is infrastructure architecture, identity-aware access, container orchestration, and security observability — from bare metal to production.
+I build software end to end. The interface, the application and API layers, the data model, the CI/CD pipeline, and the zero-trust infrastructure underneath — I own the whole stack, from first commit to hardened production.
 
-I'm a U.S. Veteran who transitioned into tech with a mission-first mindset: build things that are reliable, defensible, and intentional.
+I'm a U.S. Veteran who transitioned into tech with a mission-first mindset: build things that are reliable, defensible, and intentional. Every architectural decision is deliberate — I want to understand what each component does, how the pieces connect, and how to make the result elastic, scalable, and secure at its core.
 
-## What I'm Working On
+## Ventures
 
-### C²FHQ — v1 → v2 Rebuild
+### Valkyrie Nexus — Platform & Security Engineering
 
-Rebuilding [C²FHQ](https://c2fhq.com) from the ground up — a tools platform for managing Factions in [Torn City](https://www.torn.com). The v2 migration moves to a more secure, efficient, and modern stack. Every architectural decision is intentional: I understand what each component does, how they connect, and how to build something that's elastic, scalable, and secure at its core.
+My engineering brand: full-stack web platforms, container orchestration, identity-aware access, and security observability — built and operated from bare metal to production. Public presence across two domains, one for portfolio and consulting, one for engineering notes and architecture documentation.
 
-### The Veteran Alliance
+<a href="https://valkyrienexus.com">valkyrienexus.com</a> &nbsp;·&nbsp; <a href="https://valkyrienexus.dev">valkyrienexus.dev</a>
 
-Founding member of [The Veteran Alliance](https://theveteranalliance.com) — currently building out the web presence and digital platform.
+### StoneFyr — Design & Engineering Studio
 
-### Valkyrie Nexus
+A small business I founded around custom design and 3D-printing engineering. StoneFyr pairs a public storefront with a purpose-built inventory and order management system — designed, built, and deployed in house on a modern edge stack (SolidStart on Cloudflare Workers, D1, and R2).
 
-My professional web presence — a two-domain platform for portfolio, projects, developer notes, and architecture documentation. Built with SolidStart, Three.js, and deployed on hardened Docker containers behind Cloudflare Tunnels.
+<a href="https://stonefyr.com">stonefyr.com</a>
 
-<a href="https://valkyrienexus.com">valkyrienexus.com</a> · <a href="https://valkyrienexus.dev">valkyrienexus.dev</a>
+## Flagship Application
 
-### Client Websites
+### C²FHQ — Real-Time Faction Command Center
 
-Designed and deployed production business websites:
-- [Matt's Delicious Meat](https://mattsdeliciousmeat.com)
-- [Arnold's Appliance Repair](https://arnoldsappliancerepair.com)
+A web-based command center for [Torn City](https://www.torn.com) factions and my most substantial application to date — real-time war tracking, organized-crime lifecycle management, member analytics, and financial accounting.
+
+- **Customizable dashboard** — drag-and-drop grid of 18 widgets with persistent per-user layouts and tiered auto-refresh.
+- **War management** — live attack feeds, chain reporting, post-war payout distribution, and configurable rank tiers.
+- **Organized crimes** — full lifecycle (recruiting → planning → completed → historical) with checkpoint tracking, reward estimation, and payout calculation.
+- **Architecture in motion** — v1 runs in production; v2 is a deliberate consolidation from 28 Rust/gRPC microservices to a single Rust (Axum) monolith with a SolidStart frontend and Cloudflare Durable Objects for sub-30 ms real-time state, migrated via a strangler-fig cutover with zero downtime.
+
+Live at <a href="https://c2fhq.com">c2fhq.com</a>.
+
+## Selected Web Work
+
+Production websites and platforms I designed and built — not brochure pages, but full applications with real back-office features.
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **Air Assault Fireworks** | Customer reservation site + back-office storefront with an admin analytics dashboard | SolidStart · Cloudflare Workers · D1 · R2 |
+| **Matt's Delicious Meat** | BBQ catering site with menu and lead capture | SolidStart · Cloudflare Workers |
+| **Arnold's Appliance Repair** | Service business site for the Greater Tulsa area | SolidStart · TypeScript |
+| **The Veteran Alliance** | Digital platform and web presence (founding member) | In active development |
+| **Valkyrie Nexus** | Two-domain portfolio + engineering-notes platform with interactive 3D scenes | SolidStart · Three.js · Turborepo · Docker |
+
+## Open Source
+
+**[QRcodeGen](https://github.com/ValkyrieNexus/QRcodeGen)** — a free Autodesk Fusion add-on that generates QR codes as extruded 3D bodies for multi-color 3D printing. Supports text, URL, vCard, WiFi, and batch-sequence modes, on-face placement, and per-module color separation. Pure-Python, zero external dependencies.
 
 ## Infrastructure & Homelab
 
-I run a self-hosted platform that mirrors enterprise architecture patterns — not as a hobby, but as a working environment where I build, break, and harden real systems.
+I run a self-hosted platform that mirrors enterprise architecture patterns — a working environment where I build, break, and harden real systems.
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -55,20 +76,22 @@ This isn't a tech list — it's a trust chain. Traffic enters through Cloudflare
 | Status | Certification |
 |--------|--------------|
 | **Earned** | CompTIA Network+ |
-| **In Progress** | AWS Certified Cloud Ops Engineer - Associate |
+| **In Progress** | AWS Certified Cloud Ops Engineer – Associate |
 | **Planned** | CompTIA Security+ |
 
 ## Tech & Tools
+
+**Development:** TypeScript · SolidJS/SolidStart · Rust (Axum) · Node.js · Three.js · Python
+
+**Edge & Data:** Cloudflare Workers · Durable Objects · D1 · R2 · PostgreSQL · Redis
 
 **Infrastructure:** Proxmox · Docker · K3s · Nginx · Traefik · Cloudflare Tunnels
 
 **Security:** Wazuh · Authentik · CSP · Container Hardening · Zero-Trust Architecture
 
-**Development:** TypeScript · SolidJS/SolidStart · Three.js · Node.js · Rust
-
 **Operations:** GitHub Actions · GitOps · pnpm · Turborepo
 
-**Web Design:** Responsive Design · SSR · Accessibility (WCAG AA) · Performance Optimization
+**Web Craft:** Responsive Design · SSR · Accessibility (WCAG AA) · Performance Optimization
 
 ---
 ## Contact

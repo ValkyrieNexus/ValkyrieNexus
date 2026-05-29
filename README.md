@@ -39,15 +39,15 @@ Live at <a href="https://c2fhq.com">c2fhq.com</a>.
 
 ## Selected Web Work
 
-Production websites and platforms I designed and built — not brochure pages, but full applications with real back-office features.
+Production websites and platforms I design, build, and maintain — not brochure pages, but full applications with real back-office features.
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **Air Assault Fireworks** | Customer reservation site + back-office storefront with an admin analytics dashboard | SolidStart · Cloudflare Workers · D1 · R2 |
-| **Matt's Delicious Meat** | BBQ catering site with menu and lead capture | SolidStart · Cloudflare Workers |
-| **Arnold's Appliance Repair** | Service business site for the Greater Tulsa area | SolidStart · TypeScript |
-| **The Veteran Alliance** | Digital platform and web presence (founding member) | In active development |
-| **Valkyrie Nexus** | Two-domain portfolio + engineering-notes platform with interactive 3D scenes | SolidStart · Three.js · Turborepo · Docker |
+| **[Air Assault Fireworks](https://airassaultfireworks.com)** | Customer reservation site + back-office storefront with an admin analytics dashboard | SolidStart · Cloudflare Workers · D1 · R2 |
+| **[Matt's Delicious Meat](https://mattsdeliciousmeat.com)** | BBQ catering site with menu and lead capture | SolidStart · Cloudflare Workers |
+| **[Arnold's Appliance Repair](https://arnoldsappliancerepair.com)** | Service business site for the Greater Tulsa area | SolidStart · TypeScript |
+| **[The Veteran Alliance](https://theveteranalliance.com)** | Founding member — contributed to the digital platform and web presence | In active development |
+| **[Valkyrie Nexus](https://valkyrienexus.com)** | Two-domain portfolio + engineering-notes platform with interactive 3D scenes | SolidStart · Three.js · Turborepo · Docker |
 
 ## Open Source
 
